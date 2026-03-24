@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CollectPLC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="connect1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CurrentTempForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PLCCollection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RealTimeChartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tem_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
